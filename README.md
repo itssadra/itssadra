@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itssadra
+- 👋 Hi, I’m sadra
 - 🌱 I’m currently learning lua,py
 
 <!---
